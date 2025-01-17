@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "27adeace-c457-38e2-af22-1daac0bce6bd",
+    "name": "Flaqued",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
