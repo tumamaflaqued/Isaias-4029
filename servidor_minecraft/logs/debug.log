@@ -5184,3 +5184,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jan2025 23:21:19.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> zzzzzzzzzzzzzzzzzzzzzz
 [17Jan2025 23:22:53.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jan2025 23:22:53.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 23:27:53.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 23:27:53.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 23:28:42.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued lost connection: Disconnected
+[17Jan2025 23:28:42.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued left the game
+[17Jan2025 23:32:53.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 23:32:53.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
