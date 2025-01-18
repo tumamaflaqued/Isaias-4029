@@ -5367,3 +5367,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Jan2025 00:22:53.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jan2025 00:22:53.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jan2025 00:23:26.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flaqued> 17
+[18Jan2025 00:25:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued fell from a high place
+[18Jan2025 00:25:38.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to -878.500000, 172.500000, 962.500000]
+[18Jan2025 00:27:53.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 00:27:53.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 00:28:10.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> zz
+[18Jan2025 00:32:53.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 00:32:53.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 00:33:11.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
