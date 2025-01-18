@@ -19,3 +19,8 @@
 [18Jan2025 00:25:38.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to -878.500000, 172.500000, 962.500000]
 [18Jan2025 00:28:10.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> zz
 [18Jan2025 00:33:11.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[18Jan2025 00:37:50.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 15 [Steak] to Flaqued]
+[18Jan2025 00:39:39.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 lost connection: Disconnected
+[18Jan2025 00:39:39.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 left the game
+[18Jan2025 00:44:07.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued fell from a high place
+[18Jan2025 00:44:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to -877.500000, 172.500000, 966.500000]
