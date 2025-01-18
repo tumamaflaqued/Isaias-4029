@@ -51,3 +51,6 @@
 [18Jan2025 01:42:23.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> fice
 [18Jan2025 01:42:24.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> five
 [18Jan2025 01:42:27.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> cinco
+[18Jan2025 01:48:41.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[18Jan2025 01:55:13.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued lost connection: Disconnected
+[18Jan2025 01:55:13.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued left the game
