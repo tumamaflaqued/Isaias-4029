@@ -5384,3 +5384,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Jan2025 00:42:53.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jan2025 00:44:07.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued fell from a high place
 [18Jan2025 00:44:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to -877.500000, 172.500000, 966.500000]
+[18Jan2025 00:47:53.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 00:47:53.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 00:48:27.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 1 [Diamond Pickaxe] to Flaqued]
+[18Jan2025 00:52:53.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 00:52:53.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
