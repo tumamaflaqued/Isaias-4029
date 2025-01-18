@@ -54,3 +54,8 @@
 [18Jan2025 01:48:41.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
 [18Jan2025 01:55:13.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued lost connection: Disconnected
 [18Jan2025 01:55:13.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued left the game
+[18Jan2025 02:02:48.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flaqued[/127.239.216.111:35663] logged in with entity id 82875 at (-872.8902813113983, 173.0, 1019.052838060998)
+[18Jan2025 02:02:48.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued joined the game
+[18Jan2025 02:02:48.516] [Server thread/INFO] [Jade/]: Syncing config to Flaqued (27adeace-c457-38e2-af22-1daac0bce6bd)
+[18Jan2025 02:03:12.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued lost connection: Disconnected
+[18Jan2025 02:03:12.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued left the game
