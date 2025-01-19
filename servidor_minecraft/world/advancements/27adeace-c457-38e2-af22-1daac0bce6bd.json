@@ -2804,6 +2804,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-19 03:16:26 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-01-19 03:02:51 +0000"
@@ -2819,6 +2825,12 @@
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2025-01-19 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-01-19 03:16:28 +0000"
     },
     "done": true
   },

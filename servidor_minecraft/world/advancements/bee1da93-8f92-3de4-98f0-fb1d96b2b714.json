@@ -2825,6 +2825,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:wild_armor_trim_smithing_template_smithing_trim": "2025-01-19 03:08:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-19 03:02:18 +0000"
@@ -2897,6 +2903,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-19 03:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-19 03:02:18 +0000"
@@ -2918,6 +2930,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-19 01:56:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-01-19 03:16:20 +0000"
     },
     "done": true
   },
