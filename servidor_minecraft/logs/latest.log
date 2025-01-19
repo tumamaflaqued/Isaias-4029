@@ -235,3 +235,5 @@
 [19Jan2025 02:53:05.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [The Journey Begins]
 [19Jan2025 02:53:07.387] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 1321 -56 1470 in 0s
 [19Jan2025 02:55:38.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Once Upon a Cave]
+[19Jan2025 02:58:31.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 1 [Ender Pearl] to Flaqued]
+[19Jan2025 03:05:07.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
