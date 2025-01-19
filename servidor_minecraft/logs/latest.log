@@ -146,3 +146,48 @@
 [19Jan2025 01:34:59.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
 [19Jan2025 01:35:29.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
 [19Jan2025 01:36:02.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[19Jan2025 01:41:32.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Kicked ThunDer992: Kicked by an operator]
+[19Jan2025 01:41:32.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 lost connection: Kicked by an operator
+[19Jan2025 01:41:32.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 left the game
+[19Jan2025 01:41:37.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThunDer992[/127.45.17.132:40451] logged in with entity id 9608 at (-855.2160617798406, 130.12160004615782, 993.9123684773127)
+[19Jan2025 01:41:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 joined the game
+[19Jan2025 01:41:37.860] [Server thread/INFO] [Jade/]: Syncing config to ThunDer992 (bee1da93-8f92-3de4-98f0-fb1d96b2b714)
+[19Jan2025 01:41:39.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[19Jan2025 01:41:49.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to -870.500000, 172.500000, 964.500000]
+[19Jan2025 01:41:52.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[19Jan2025 01:45:14.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[19Jan2025 01:45:23.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:45:55.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[19Jan2025 01:48:57.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:49:10.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[19Jan2025 01:50:23.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> zzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[19Jan2025 01:50:23.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[19Jan2025 01:50:23.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[19Jan2025 01:51:07.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[19Jan2025 01:51:22.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:52:40.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:54:34.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[19Jan2025 01:55:29.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:55:36.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:55:37.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:55:40.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:55:41.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:55:43.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:56:00.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[19Jan2025 01:56:06.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[19Jan2025 01:57:55.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[19Jan2025 02:00:22.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 02:00:49.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to -7091.500000, -52.500000, 1242.500000]
+[19Jan2025 02:01:41.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> zzzzzzzz
+[19Jan2025 02:01:41.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[19Jan2025 02:01:41.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[19Jan2025 02:01:41.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[19Jan2025 02:01:46.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued lost connection: Disconnected
+[19Jan2025 02:01:46.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued left the game
+[19Jan2025 02:02:02.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flaqued[/127.54.12.245:47287] logged in with entity id 31753 at (-7019.652078380124, -28.0, 1091.012877015291)
+[19Jan2025 02:02:02.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued joined the game
+[19Jan2025 02:02:02.787] [Server thread/INFO] [Jade/]: Syncing config to Flaqued (27adeace-c457-38e2-af22-1daac0bce6bd)
+[19Jan2025 02:02:28.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [It Belongs in a Museum]
+[19Jan2025 02:02:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to -6899.500000, -28.500000, 1036.500000]
+[19Jan2025 02:05:40.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to -6776.500000, -41.500000, 988.500000]
+[19Jan2025 02:06:34.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]

@@ -7,21 +7,35 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-19 01:58:20 +0000",
       "minecraft:old_growth_pine_taiga": "2025-01-17 22:51:05 +0000",
       "minecraft:taiga": "2025-01-18 00:27:07 +0000",
       "minecraft:deep_ocean": "2025-01-17 22:34:35 +0000",
+      "minecraft:frozen_river": "2025-01-19 01:45:09 +0000",
+      "minecraft:cherry_grove": "2025-01-19 01:54:29 +0000",
+      "minecraft:sunflower_plains": "2025-01-19 01:53:56 +0000",
       "minecraft:birch_forest": "2025-01-17 22:29:54 +0000",
       "minecraft:windswept_hills": "2025-01-18 00:29:05 +0000",
       "minecraft:beach": "2025-01-17 21:28:50 +0000",
+      "minecraft:dark_forest": "2025-01-19 02:05:04 +0000",
+      "minecraft:sparse_jungle": "2025-01-19 02:00:19 +0000",
       "minecraft:river": "2025-01-17 22:04:58 +0000",
+      "minecraft:snowy_plains": "2025-01-19 01:47:09 +0000",
+      "minecraft:stony_shore": "2025-01-19 01:52:05 +0000",
+      "minecraft:snowy_taiga": "2025-01-19 01:45:05 +0000",
       "minecraft:swamp": "2025-01-17 22:43:27 +0000",
       "minecraft:cold_ocean": "2025-01-17 22:36:46 +0000",
       "minecraft:forest": "2025-01-17 21:29:23 +0000",
       "minecraft:lush_caves": "2025-01-19 01:16:51 +0000",
       "minecraft:deep_cold_ocean": "2025-01-17 22:35:38 +0000",
+      "minecraft:frozen_ocean": "2025-01-19 01:46:31 +0000",
       "minecraft:windswept_forest": "2025-01-17 22:50:26 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-19 01:46:48 +0000",
       "minecraft:ocean": "2025-01-17 21:57:41 +0000",
+      "minecraft:jungle": "2025-01-19 01:59:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-19 01:16:28 +0000",
+      "minecraft:snowy_beach": "2025-01-19 01:46:28 +0000",
+      "minecraft:meadow": "2025-01-19 01:55:13 +0000",
       "minecraft:plains": "2025-01-17 21:27:17 +0000"
     },
     "done": false
@@ -2603,15 +2617,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-19 01:28:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-19 01:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-19 01:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-19 01:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-19 01:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-19 01:28:56 +0000"
     },
     "done": true
   },
@@ -2627,27 +2659,99 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-19 01:25:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-01-19 01:20:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-01-19 01:25:27 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-01-19 01:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-19 01:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-19 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-19 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-19 01:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-19 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-19 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-19 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-19 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-19 02:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-01-19 02:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-19 02:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-19 01:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 02:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 02:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 02:02:26 +0000"
     },
     "done": true
   },
