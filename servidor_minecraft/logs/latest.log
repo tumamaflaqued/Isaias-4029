@@ -120,3 +120,29 @@
 [19Jan2025 01:24:47.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
 [19Jan2025 01:25:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Ice Bucket Challenge]
 [19Jan2025 01:25:56.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 24 [Diamond] to Flaqued
+[19Jan2025 01:26:09.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Jan2025 01:26:09.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[19Jan2025 01:26:12.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[19Jan2025 01:26:23.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Cover Me with Diamonds]
+[19Jan2025 01:27:48.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[19Jan2025 01:27:59.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[19Jan2025 01:28:02.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:28:10.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:28:23.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:28:29.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:28:40.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 moved wrongly!
+[19Jan2025 01:31:31.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThunDer992 lost connection: Disconnected
+[19Jan2025 01:31:31.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 left the game
+[19Jan2025 01:31:31.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Kicked ThunDer992: Kicked by an operator]
+[19Jan2025 01:31:31.289] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jan2025 01:31:45.739] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e392f4f[id=<null>,name=ThunDer992,properties={},legacy=false] (/127.45.17.132:34253) lost connection: Disconnected
+[19Jan2025 01:31:50.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThunDer992[/127.45.17.132:41099] logged in with entity id 7327 at (-875.4945814518636, 172.0, 958.8870789636234)
+[19Jan2025 01:31:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 joined the game
+[19Jan2025 01:31:50.263] [Server thread/INFO] [Jade/]: Syncing config to ThunDer992 (bee1da93-8f92-3de4-98f0-fb1d96b2b714)
+[19Jan2025 01:31:53.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 20 experience levels to Flaqued]
+[19Jan2025 01:32:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[19Jan2025 01:32:50.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Ice Bucket Challenge]
+[19Jan2025 01:34:54.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued was blown up by Creeper
+[19Jan2025 01:34:59.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[19Jan2025 01:35:29.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[19Jan2025 01:36:02.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
