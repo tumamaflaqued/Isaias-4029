@@ -614,6 +614,7 @@
       "minecraft:witch": "2025-01-17 21:39:17 +0000",
       "minecraft:cave_spider": "2025-01-17 21:58:41 +0000",
       "minecraft:enderman": "2025-01-17 22:54:09 +0000",
+      "minecraft:silverfish": "2025-02-11 19:27:15 +0000",
       "minecraft:zombie": "2025-01-17 21:29:02 +0000",
       "minecraft:zombie_villager": "2025-01-17 22:51:17 +0000"
     },
@@ -2702,51 +2703,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_black_wool": "2025-01-19 03:02:51 +0000"
+      "has_raw_copper": "2025-01-19 02:24:54 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_black": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_black_wool": "2025-01-19 03:02:51 +0000"
+      "has_raw_copper": "2025-01-19 02:24:54 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "enchanted_item": "2025-01-19 02:43:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-01-19 03:02:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-01-19 03:02:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-01-19 02:49:33 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-01-19 02:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-01-19 02:49:33 +0000"
+      "has_raw_copper": "2025-01-19 02:24:54 +0000"
     },
     "done": true
   },
@@ -2756,9 +2727,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_redstone_torch": "2025-01-19 02:57:21 +0000"
+      "enchanted_item": "2025-01-19 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-19 02:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-19 02:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-19 02:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-19 02:49:33 +0000"
     },
     "done": true
   },
@@ -2786,72 +2781,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-01-19 02:24:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-01-19 03:02:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-01-19 02:24:54 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2025-01-19 03:16:26 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_black": {
-    "criteria": {
-      "has_black_wool": "2025-01-19 03:02:51 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-01-19 02:55:38 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-01-19 02:52:56 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/limestone": {
-    "criteria": {
-      "limestone": "2025-01-19 03:16:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-01-19 02:49:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-01-19 02:57:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-01-19 03:02:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-01-19 02:49:33 +0000"
@@ -2864,9 +2793,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_iron_block": "2025-01-19 02:49:29 +0000"
+      "cave_codex": "2025-01-19 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-01-19 02:53:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-19 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-19 02:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-19 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-19 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-01-19 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-19 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-19 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-19 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-01-19 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-19 03:02:51 +0000"
     },
     "done": true
   },
@@ -2876,9 +2871,219 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
-      "has_raw_copper": "2025-01-19 02:24:54 +0000"
+      "discover": "2025-01-19 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-01-19 03:16:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-01-19 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-19 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 03:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-19 03:20:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-01-19 03:20:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-01-19 03:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-01-19 03:21:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-19 03:25:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-01-19 03:25:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-01-19 03:26:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-01-19 03:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-19 03:40:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-01-19 03:40:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-01-19 03:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-11 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-11 19:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-11 19:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-11 19:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-11 19:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-11 19:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-11 19:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-11 19:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-11 19:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-11 19:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-11 19:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-11 19:23:40 +0000"
     },
     "done": true
   },

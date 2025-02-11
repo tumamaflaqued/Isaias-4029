@@ -2668,15 +2668,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_gold_block": "2025-01-19 02:26:55 +0000"
+      "has_book": "2025-01-19 01:49:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
+      "has_book": "2025-01-19 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-19 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-19 01:49:24 +0000"
     },
     "done": true
   },
@@ -2686,15 +2698,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
+      "has_potato": "2025-01-19 01:56:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "has_book": "2025-01-19 01:49:24 +0000"
+      "has_potato": "2025-01-19 01:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-19 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-19 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 02:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 02:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 02:02:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-19 02:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-01-19 02:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-19 02:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-19 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-19 02:07:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-19 02:08:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-19 02:12:10 +0000"
     },
     "done": true
   },
@@ -2704,9 +2788,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
+      "has_paper": "2025-01-19 02:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-19 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-19 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-19 02:39:28 +0000"
     },
     "done": true
   },
@@ -2717,135 +2819,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-01-19 02:00:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-19 02:39:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-01-19 01:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-01-19 01:49:24 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-01-19 02:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-01-19 02:45:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-19 01:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-01-19 02:00:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-01-19 01:49:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-01-19 02:40:23 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-01-19 02:02:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-19 02:40:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:wild_armor_trim_smithing_template_smithing_trim": "2025-01-19 03:08:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-19 03:02:18 +0000"
     },
     "done": true
   },
@@ -2873,27 +2855,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-19 02:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-19 02:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-19 02:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-19 02:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-19 02:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-19 03:02:18 +0000"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
-      "lava_bucket": "2025-01-19 02:07:32 +0000"
+      "has_glass": "2025-01-19 03:02:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-01-19 02:03:00 +0000"
+      "has_glass": "2025-01-19 03:02:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
-      "has_smithing_trim_template": "2025-01-19 02:03:00 +0000"
+      "has_glass": "2025-01-19 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-19 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-19 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-19 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-19 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-19 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-19 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-19 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-19 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-19 03:02:18 +0000"
     },
     "done": true
   },
@@ -2903,39 +2969,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2025-01-19 03:16:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-19 03:02:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-19 02:39:28 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-01-19 02:12:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-01-19 01:56:35 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/limestone": {
-    "criteria": {
-      "limestone": "2025-01-19 03:16:20 +0000"
     },
     "done": true
   },
@@ -2957,57 +2993,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
-      "has_glowstone_dust": "2025-01-19 02:40:27 +0000"
+      "armor_trimmed_minecraft:wild_armor_trim_smithing_template_smithing_trim": "2025-01-19 03:08:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
-      "has_paper": "2025-01-19 02:12:15 +0000"
+      "discover": "2025-01-19 03:16:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "alexscaves:alexscaves/limestone": {
     "criteria": {
-      "has_stone_slab": "2025-01-19 02:45:24 +0000"
+      "limestone": "2025-01-19 03:16:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "alexscaves:alexscaves/tree_star": {
     "criteria": {
-      "has_raw_iron_block": "2025-01-19 02:06:39 +0000"
+      "tree_star": "2025-01-19 03:20:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "alexscaves:alexscaves/fiddlehead": {
     "criteria": {
-      "has_bamboo": "2025-01-19 02:02:26 +0000"
+      "fiddlehead": "2025-01-19 03:20:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "has_bamboo": "2025-01-19 02:02:26 +0000"
+      "killed_by_vallumraptor": "2025-01-19 03:24:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
-      "has_glowstone_dust": "2025-01-19 02:40:27 +0000"
+      "killed_relicheirus": "2025-01-19 03:25:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "alexscaves:alexscaves/primitive_club": {
     "criteria": {
-      "has_bamboo": "2025-01-19 02:02:26 +0000"
+      "limestone": "2025-01-19 03:25:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
     "criteria": {
-      "has_netherrack": "2025-01-19 02:40:49 +0000"
+      "cooked_dinosaur_chop": "2025-01-19 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-19 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-19 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-19 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-19 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-01-19 03:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-19 03:42:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-01-19 03:42:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-02-11 18:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-11 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-11 19:17:45 +0000"
     },
     "done": true
   },
