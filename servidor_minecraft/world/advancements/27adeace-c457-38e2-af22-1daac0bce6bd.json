@@ -3102,6 +3102,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-02-11 20:11:22 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_notor": {
     "criteria": {
       "killed": "2025-02-11 19:49:21 +0000"
@@ -3111,6 +3117,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-02-11 19:52:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "scarlet": "2025-02-11 20:09:29 +0000"
     },
     "done": true
   },
@@ -3135,6 +3147,12 @@
   "alexscaves:alexscaves/defeat_magnetron": {
     "criteria": {
       "killed": "2025-02-11 19:54:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-02-11 20:09:04 +0000"
     },
     "done": true
   },

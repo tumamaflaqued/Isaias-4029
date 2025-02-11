@@ -5308,3 +5308,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Feb2025 20:03:11.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Feb2025 20:03:11.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Feb2025 20:03:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Creative Mode]
+[11Feb2025 20:04:03.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
+[11Feb2025 20:05:33.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 40 [Coal] to Flaqued]
+[11Feb2025 20:05:58.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Creative Mode]
+[11Feb2025 20:06:05.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
+[11Feb2025 20:06:19.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Sneak 100]
+[11Feb2025 20:07:19.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 40 [Stick] to Flaqued]
+[11Feb2025 20:08:11.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Feb2025 20:08:11.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Feb2025 20:09:29.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [An Alloy To Remember]
+[11Feb2025 20:10:05.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[11Feb2025 20:11:22.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Come on and Slam]
+[11Feb2025 20:11:41.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Come on and Slam]
+[11Feb2025 20:13:11.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Feb2025 20:13:11.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

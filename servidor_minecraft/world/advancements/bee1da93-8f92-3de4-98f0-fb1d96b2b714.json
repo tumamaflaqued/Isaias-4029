@@ -36,6 +36,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-01-19 01:16:28 +0000",
       "minecraft:snowy_beach": "2025-01-19 01:46:28 +0000",
       "minecraft:flower_forest": "2025-01-19 02:30:04 +0000",
+      "minecraft:deep_dark": "2025-02-11 20:05:14 +0000",
       "minecraft:meadow": "2025-01-19 01:55:13 +0000",
       "minecraft:savanna": "2025-01-19 02:17:12 +0000",
       "minecraft:plains": "2025-01-17 21:27:17 +0000"
@@ -3096,6 +3097,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-02-11 20:11:41 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_notor": {
     "criteria": {
       "killed": "2025-02-11 19:58:55 +0000"
@@ -3123,6 +3130,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-02-11 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-11 20:06:19 +0000"
     },
     "done": true
   },
