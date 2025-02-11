@@ -142,3 +142,44 @@
 [11Feb2025 19:31:14.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Spectator Mode]
 [11Feb2025 19:31:30.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
 [11Feb2025 19:31:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to ThunDer992]
+[11Feb2025 19:33:16.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Creative Mode]
+[11Feb2025 19:33:39.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
+[11Feb2025 19:37:20.590] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at 4862 0 -2755 in 1s
+[11Feb2025 19:39:25.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> zzzzzzzzzzzzzzz
+[11Feb2025 19:39:25.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[11Feb2025 19:39:25.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[11Feb2025 19:39:26.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThunDer992> z
+[11Feb2025 19:39:45.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[11Feb2025 19:39:50.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued lost connection: Disconnected
+[11Feb2025 19:39:50.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued left the game
+[11Feb2025 19:40:01.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flaqued[/127.172.212.196:59431] logged in with entity id 24532 at (1096.1888156364384, 63.0, -571.0834606956706)
+[11Feb2025 19:40:01.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued joined the game
+[11Feb2025 19:40:01.760] [Server thread/INFO] [Jade/]: Syncing config to Flaqued (27adeace-c457-38e2-af22-1daac0bce6bd)
+[11Feb2025 19:40:50.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved wrongly!
+[11Feb2025 19:41:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported Flaqued to 1864.500000, 64.500000, -927.500000]
+[11Feb2025 19:44:04.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flaqued moved too quickly! -0.23459494225608069,-10.652313679261937,0.29736084976548227
+[11Feb2025 19:44:37.892] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[11Feb2025 19:44:55.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Creative Mode]
+[11Feb2025 19:45:26.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Applied enchantment Protection IV to Flaqued's item]
+[11Feb2025 19:45:31.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Applied enchantment Unbreaking III to Flaqued's item]
+[11Feb2025 19:45:50.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Applied enchantment Respiration III to Flaqued's item]
+[11Feb2025 19:45:59.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
+[11Feb2025 19:46:13.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 1 [Diamond Shovel] to Flaqued]
+[11Feb2025 19:47:13.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Opposites Attract]
+[11Feb2025 19:48:29.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Teletor's Telecore]
+[11Feb2025 19:48:30.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Push and Pull]
+[11Feb2025 19:49:21.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Publicity Stunt]
+[11Feb2025 19:49:47.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has made the advancement [Worthless]
+[11Feb2025 19:50:39.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Gave 30 [Steak] to Flaqued]
+[11Feb2025 19:50:50.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[11Feb2025 19:50:51.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has reached the goal [Opposites Attract]
+[11Feb2025 19:53:32.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 blew up
+[11Feb2025 19:53:39.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[11Feb2025 19:54:35.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flaqued has reached the goal [Magnetron No More]
+[11Feb2025 19:58:09.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Teleported ThunDer992 to Flaqued]
+[11Feb2025 19:58:55.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThunDer992 has made the advancement [Publicity Stunt]
+[11Feb2025 20:01:25.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Spectator Mode]
+[11Feb2025 20:01:40.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
+[11Feb2025 20:02:04.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Creative Mode]
+[11Feb2025 20:02:29.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Survival Mode]
+[11Feb2025 20:03:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flaqued: Set own game mode to Creative Mode]
