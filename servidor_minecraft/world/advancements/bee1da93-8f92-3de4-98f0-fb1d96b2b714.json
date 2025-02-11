@@ -3127,6 +3127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-11 20:24:39 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
       "discover": "2025-02-11 19:50:51 +0000"
