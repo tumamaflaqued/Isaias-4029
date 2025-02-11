@@ -3102,9 +3102,22 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/resistor_shield": {
+  "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
-      "resistor_shield": "2025-02-11 20:11:22 +0000"
+      "discover": "2025-02-11 19:47:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-02-11 19:48:30 +0000",
+      "azure": "2025-02-11 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-02-11 19:48:29 +0000"
     },
     "done": true
   },
@@ -3114,33 +3127,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-02-11 19:52:57 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/neodymium_ingot": {
-    "criteria": {
-      "scarlet": "2025-02-11 20:09:29 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
-    "criteria": {
-      "discover": "2025-02-11 19:47:13 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/defeat_boundroid": {
     "criteria": {
       "killed": "2025-02-11 19:49:47 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/telecore": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "limestone": "2025-02-11 19:48:29 +0000"
+      "has_glow_ink_sac": "2025-02-11 19:52:57 +0000"
     },
     "done": true
   },
@@ -3156,10 +3151,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/neodymium": {
+  "alexscaves:alexscaves/neodymium_ingot": {
     "criteria": {
-      "scarlet": "2025-02-11 19:48:30 +0000",
-      "azure": "2025-02-11 19:48:28 +0000"
+      "scarlet": "2025-02-11 20:09:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-02-11 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hologram_projector": {
+    "criteria": {
+      "hologram_projector": "2025-02-11 20:52:43 +0000"
     },
     "done": true
   },
