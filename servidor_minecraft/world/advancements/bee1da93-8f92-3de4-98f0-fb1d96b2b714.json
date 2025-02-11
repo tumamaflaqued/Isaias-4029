@@ -3097,6 +3097,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-11 20:15:53 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/resistor_shield": {
     "criteria": {
       "resistor_shield": "2025-02-11 20:11:41 +0000"
@@ -3124,6 +3130,12 @@
   "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
       "discover": "2025-02-11 19:50:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-02-11 20:17:32 +0000"
     },
     "done": true
   },
